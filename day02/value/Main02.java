@@ -3,35 +3,22 @@ package value;
 public class Main02 {
 
 	public static void main(String[] args) {
-		// ÀÏ¹İ º¯¼ö
+		// ì¼ë°˜ ë³€ìˆ˜
 		int width = 100;
 		
-		// »ó¼ö
+		// ìƒìˆ˜
 		final double PI = 3.14d;
 		
 		System.out.println("width : " + width);
 		System.out.println("PI : " + PI);
 		
-		// °ªÀÇ º¯°æ
+		// ê°’ì˜ ë³€ê²½
 		width = 200;
-		// ÀÌ ¶óÀÎÀº ¿¡·¯°¡ ¹ß»ıÇÑ´Ù.
+		// ì´ ë¼ì¸ì€ ì—ëŸ¬ê°€ ë°œìƒí•œë‹¤.
 		//PI = 3.141582d;
 		
 		System.out.println("width : " + width);
-		System.out.println("PI : " + PI);
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+		System.out.println("PI : " + PI);	
 	}
 
 }
