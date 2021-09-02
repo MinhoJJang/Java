@@ -1,11 +1,4 @@
-평일 java1
 
-Zoom 회의 참가
-https://zoom.us/j/9742331340?pwd=SlhSLzg4NjJ6NnRMdDlRNkY0RFBJdz09
-
-회의 ID: 974 233 1340
-암호: c1900
----------------------------------------------------------
 1. 주석문
  1-1. 주석문이란?
   - 프로그램 소스코드 안에 개발자의 필요에 따라 명시하는 설명문
@@ -169,20 +162,6 @@ https://zoom.us/j/9742331340?pwd=SlhSLzg4NjJ6NnRMdDlRNkY0RFBJdz09
 
 	final int age = 20;
 	age = 2;	// 상수의 값을 변경하므로 에러
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ** 단축키
 - 주석 단축키 : Ctrl + / or Ctrl + Shift + c or Ctrl + Shift + /
