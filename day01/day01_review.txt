@@ -33,7 +33,7 @@
   - 자바 설치 확인 여부 : java -version
   - JAVA 다운로드 : https://www.oracle.com/index.html 접속
     -> Products -> Java -> Download Java -> JDK Download
-  - 저장위치 : D:\java1_1900_kjh\util
+  - 저장위치 : D drive
  
  3.JDK 설정
   - 파일탐색기 -> 내PC -> 속성 -> 고급 시스템 설정 -> 고급 탭 -> 환경변수
@@ -53,17 +53,6 @@
   - Console 창 열기 : Window -> show view -> Console
   - Project 열기 : File -> new -> other.. -> 
 
-
-
- 
-
-
-
-
-
-
-
-
 ** 단축키
  - 실행창 : Window + R
  - cmd : 실행창 + cmd
@@ -72,30 +61,3 @@
  - eclipse 글자 크기 : Ctrl + shift + + 커지고
 				     - 작아지고
  - eclipse 실행 단축키 : Ctrl + f11
-
-  
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
