@@ -1,3 +1,3 @@
 # Java 
 
-Study Java 
+Upload what I learned 
