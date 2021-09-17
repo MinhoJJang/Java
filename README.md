@@ -1,3 +1,3 @@
 # Java 
 
-Upload what I learned 
+The basic contents of Java
